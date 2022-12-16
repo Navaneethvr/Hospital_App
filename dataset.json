@@ -1,0 +1,32 @@
+[
+    {
+        "hospitalName": "Valluvandu",
+        "hospitalLocation": "Kanniyampuram",
+        "patientCount": "2000"
+    },
+    {
+        "hospitalName": "Semalk",
+        "hospitalLocation": "Meetna",
+        "patientCount": "560"
+    },
+    {
+        "hospitalName": "Seventh Day",
+        "hospitalLocation": "Manisseri",
+        "patientCount": "1300"
+    },
+    {
+        "hospitalName": "PK Das",
+        "hospitalLocation": "vaniyamkulam",
+        "patientCount": "3400"
+    },
+    {
+        "hospitalName": "Medical College",
+        "hospitalLocation": "Palakkad Town",
+        "patientCount": "2500"
+    },
+    {
+        "hospitalName": "Aswani",
+        "hospitalLocation": "Ottapalam",
+        "patientCount": "450"
+    }
+]
